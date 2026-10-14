@@ -25,6 +25,14 @@ Arduino-based control of a three-axis SCARA robot using stepper motors, with for
 
 🔗 [View SCARA Robot Project](https://github.com/nitkkr-vlsi/scara-robot-)
 
+### 🚗 Line Follower Robot
+
+Arduino-based mobile robot using three IR sensors and conditional motor-control logic for line tracking, directional turns, and intersection handling.
+
+**Technologies:** Arduino C/C++, IR Sensors, PWM Motor Control
+
+[View Project Repository](https://github.com/nitkkr-vlsi/line-follower-robot)
+
 ## 🌱 Currently Learning
 
 - Digital Electronics
