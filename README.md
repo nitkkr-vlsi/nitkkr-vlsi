@@ -1,4 +1,39 @@
-## Hi there 👋
+# Hi, I'm Kamya 👋
+
+🎓 Electrical Engineering Student at NIT Kurukshetra
+
+I'm an engineering student interested in robotics, embedded systems, and digital design. I enjoy exploring practical applications of engineering concepts through projects and hands-on learning.
+
+## 🚀 About Me
+
+- 🎓 Pursuing Electrical Engineering at NIT Kurukshetra
+- 🤖 Worked on a SCARA Robot Control project during a summer internship at IHFC, IIT Delhi, with Gravitaz Automation Pvt. Ltd.
+- ⚙️ Exploring Arduino-based control systems and robotics
+- 📚 Learning digital electronics, Verilog, and VLSI design
+
+## 🛠️ Technical Skills
+
+- **Programming:** Arduino C/C++
+- **Hardware:** Arduino Uno, Stepper Motors, TB6600 Motor Drivers
+- **Tools:** Arduino IDE, AccelStepper, Wokwi, GeoGebra
+
+## 📌 Featured Project
+
+### SCARA Robot Control and Automation
+
+Arduino-based control of a three-axis SCARA robot using stepper motors, with forward and inverse kinematics routines.
+
+🔗 [View SCARA Robot Project](https://github.com/nitkkr-vlsi/scara-robot-)
+
+## 🌱 Currently Learning
+
+- Digital Electronics
+- Verilog HDL
+- VLSI Design Fundamentals
+
+---
+
+*Always learning, building, and exploring new engineering concepts.*
 
 <!--
 **nitkkr-vlsi/nitkkr-vlsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
